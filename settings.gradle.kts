@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CPAP Tracker"
+rootProject.name = "Mike_BiPAP_Tracker"
 include(":app")

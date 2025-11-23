@@ -1,6 +1,6 @@
-# Quick Start Guide - CPAP Tracker for Android Studio
+# Quick Start Guide - Mike's BiPAP Tracker for Android Studio
 
-Welcome! This guide will help you get the CPAP Tracker app running in Android Studio, even if you're new to Android development.
+Welcome! This guide will help you get Mike's BiPAP Tracker app running in Android Studio, even if you're new to Android development.
 
 ## 🚀 Opening the Project
 
@@ -8,12 +8,12 @@ Welcome! This guide will help you get the CPAP Tracker app running in Android St
 1. Open Android Studio
 2. If you see the Welcome screen:
    - Click **"Open"**
-   - Navigate to this folder: `/home/user/CPAP-Tracker`
+   - Navigate to this folder: `/home/user/Mike_BiPAP_Tracker`
    - Click **"OK"**
 
 3. If Android Studio is already open:
    - **File → Open**
-   - Navigate to `/home/user/CPAP-Tracker`
+   - Navigate to `/home/user/Mike_BiPAP_Tracker`
    - Click **"OK"**
 
 ### Step 2: Wait for Gradle Sync
@@ -25,7 +25,7 @@ Welcome! This guide will help you get the CPAP Tracker app running in Android St
 ### Step 3: Verify Project Structure
 In the left panel (Project view), you should see:
 ```
-CPAP-Tracker
+Mike_BiPAP_Tracker
 ├── app
 │   ├── src
 │   │   └── main
@@ -92,7 +92,7 @@ CPAP-Tracker
 
 4. **App Launches:**
    - App automatically installs and opens on device
-   - You'll see the CPAP Tracker dashboard!
+   - You'll see the BiPAP Tracker dashboard!
 
 ### What You'll See on First Launch
 

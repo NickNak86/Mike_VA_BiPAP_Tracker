@@ -1,10 +1,10 @@
-# CPAP Tracker
+# Mike's BiPAP Tracker
 
-A modern Android application for tracking CPAP/BiPAP equipment parts and managing replacement schedules. Built specifically for VA patients using ResMed equipment.
+A modern Android application for tracking BiPAP/CPAP equipment parts and managing replacement schedules. Built specifically for VA patients using ResMed equipment.
 
 ## Overview
 
-CPAP Tracker helps you stay on top of your CPAP/BiPAP equipment maintenance by:
+Mike's BiPAP Tracker helps you stay on top of your BiPAP/CPAP equipment maintenance by:
 - Tracking replacement schedules for all equipment parts
 - Sending timely notifications for upcoming replacements
 - Managing equipment inventory and reorder process
@@ -117,8 +117,8 @@ app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/NickNak86/CPAP-Tracker.git
-   cd CPAP-Tracker
+   git clone https://github.com/NickNak86/Mike_BiPAP_Tracker.git
+   cd Mike_BiPAP_Tracker
    ```
 
 2. **Open in Android Studio**
@@ -212,7 +212,7 @@ Currently in development:
 Future versions will support:
 - Custom equipment models
 - User-defined replacement intervals
-- Multiple CPAP machines
+- Multiple BiPAP/CPAP machines
 - Additional accessory tracking
 
 ## Notifications
@@ -225,7 +225,7 @@ The app checks for upcoming replacements daily and sends notifications:
 ### Notification Settings
 Notifications can be managed through:
 1. App Settings (coming soon)
-2. Android System Settings > Apps > CPAP Tracker > Notifications
+2. Android System Settings > Apps > Mike's BiPAP Tracker > Notifications
 
 ## Permissions
 
@@ -237,12 +237,12 @@ Notifications can be managed through:
 
 ### Notifications Not Working
 1. Check notification permissions in Android settings
-2. Ensure "Battery Optimization" is disabled for CPAP Tracker
+2. Ensure "Battery Optimization" is disabled for Mike's BiPAP Tracker
 3. Verify notifications are enabled in app settings
 
 ### Data Not Syncing
 1. Force close and reopen the app
-2. Clear app cache (Settings > Apps > CPAP Tracker > Storage > Clear Cache)
+2. Clear app cache (Settings > Apps > Mike's BiPAP Tracker > Storage > Clear Cache)
 3. If issues persist, clear app data (this will reset all tracking)
 
 ## Roadmap
@@ -281,7 +281,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Built for VA patients managing CPAP/BiPAP equipment
+- Built for VA patients managing BiPAP/CPAP equipment
 - Replacement schedules based on ResMed manufacturer recommendations
 - Designed for Samsung Galaxy S22 Ultra and S10 Ultra devices
 
@@ -292,11 +292,11 @@ For issues, questions, or suggestions:
 
 ## Disclaimer
 
-This app is designed to help track CPAP equipment maintenance schedules. It is not a medical device and should not replace medical advice. Always consult with your healthcare provider regarding your CPAP therapy and equipment needs.
+This app is designed to help track BiPAP/CPAP equipment maintenance schedules. It is not a medical device and should not replace medical advice. Always consult with your healthcare provider regarding your BiPAP/CPAP therapy and equipment needs.
 
 ---
 
 **Version**: 1.0.0
 **Last Updated**: November 2025
-**Author**: Nick
+**Author**: Mike
 **Device**: Samsung Galaxy S22 Ultra / S10 Ultra

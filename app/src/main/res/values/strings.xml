@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">CPAP Tracker</string>
+    <string name="app_name">Mike\'s BiPAP Tracker</string>
 
     <!-- Navigation -->
     <string name="nav_dashboard">Dashboard</string>
@@ -9,7 +9,7 @@
     <string name="nav_settings">Settings</string>
 
     <!-- Dashboard -->
-    <string name="dashboard_title">CPAP Parts Tracker</string>
+    <string name="dashboard_title">BiPAP Parts Tracker</string>
     <string name="next_replacement">Next Replacement</string>
     <string name="days_remaining">%d days remaining</string>
     <string name="overdue">Overdue by %d days</string>

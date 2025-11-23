@@ -1,8 +1,8 @@
-# CPAP Tracker - Project Context for Claude Code
+# Mike's BiPAP Tracker - Project Context for Claude Code
 
 ## Project Overview
 
-**CPAP Tracker** is an Android application for tracking CPAP/BiPAP equipment parts and managing replacement schedules, built specifically for VA patients using ResMed equipment.
+**Mike's BiPAP Tracker** is an Android application for tracking BiPAP/CPAP equipment parts and managing replacement schedules, built specifically for VA patients using ResMed equipment.
 
 - **Platform**: Android (Native)
 - **Language**: Kotlin
@@ -16,7 +16,7 @@
 
 ## Repository Information
 
-- **GitHub**: https://github.com/NickNak86/CPAP-Tracker
+- **GitHub**: https://github.com/NickNak86/Mike_BiPAP_Tracker
 - **Primary Branch**: `main`
 - **Package Name**: `com.cpaptracker`
 
@@ -25,7 +25,7 @@
 ## Directory Structure
 
 ```
-/home/user/CPAP-Tracker/
+/home/user/Mike_BiPAP_Tracker/
 ├── CLAUDE.md                    # This file - Claude Code context
 ├── QUICK_START.md               # Beginner guide for Android Studio
 ├── README.md                    # Full project documentation
@@ -107,7 +107,7 @@
 ### Data Layer
 | File | Location | Purpose |
 |------|----------|---------|
-| `Equipment.kt` | `app/.../data/models/` | Equipment entity (CPAP machines with serial numbers) |
+| `Equipment.kt` | `app/.../data/models/` | Equipment entity (BiPAP machines with serial numbers) |
 | `Part.kt` | `app/.../data/models/` | Part entity (mask cushion, tubing, etc.) |
 | `PartReplacement.kt` | `app/.../data/models/` | Tracks replacement history for each part |
 | `AppDatabase.kt` | `app/.../data/database/` | Room database definition, prepopulates default data |
@@ -310,11 +310,11 @@ Parts can be in one of these states (defined in `Part.kt`):
 
 ## User Context
 
-- **User**: VA patient with CPAP equipment
+- **User**: Mike - VA patient with BiPAP equipment
 - **Experience Level**: New to Android development
 - **IDE**: Android Studio (primary), VS Code with Claude Code (secondary)
 - **Device**: Samsung Galaxy S22 Ultra
-- **Goal**: Track CPAP part replacements and get reminders for VA reorders
+- **Goal**: Track BiPAP part replacements and get reminders for VA reorders
 
 ---
 
